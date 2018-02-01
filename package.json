@@ -47,6 +47,6 @@
     "whatwg-fetch": "^1.0.0"
   },
   "peerDependencies": {
-    "lokka": "1.x.x"
+    "Actonate/lokka": "1.x.x"
   }
 }
