@@ -47,6 +47,6 @@
     "whatwg-fetch": "^1.0.0"
   },
   "peerDependencies": {
-    "Actonate/lokka#master": "1.x.x"
+    "lokka": "github:Actonate/lokka-transport-http#master"
   }
 }
